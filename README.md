@@ -10,7 +10,7 @@
 
   GameX is a fully responsive eSports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
+  
 
 </div>
 
